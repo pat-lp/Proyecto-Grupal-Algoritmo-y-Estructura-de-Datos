@@ -14,3 +14,5 @@ A su vez, las franquicias, pueden ser sucursales que responden a un mismo dueño
 Si el local fuera una sucursal en los rankings anteriores participa como un local individual, pero en el ranking de rendimiento (Facturación/sobre Mts2) solo participan las matrices con sus sucursales sumadas.
 
 
+Trabajo realizado con: 
+* https://github.com/CristianScarella
