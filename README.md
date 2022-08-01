@@ -15,4 +15,4 @@ Si el local fuera una sucursal en los rankings anteriores participa como un loca
 
 
 Trabajo realizado con: 
-* https://github.com/CristianScarella
+* Cristian Scarella: https://github.com/CristianScarella
