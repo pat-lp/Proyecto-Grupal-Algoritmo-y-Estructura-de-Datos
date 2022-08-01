@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1601746917 source:c:\users\pat\desktop\trabajo practico ayed\tpayed-grupo7\lista.cpp
+	"Lista.h"
+
+1601757132 c:\users\pat\desktop\trabajo practico ayed\tpayed-grupo7\lista.h
+
+1602628089 source:c:\users\pat\desktop\trabajo practico ayed\tpayed-grupo7\sucursal.cpp
+	"Sucursal.h"
+
+1601668654 c:\users\pat\desktop\trabajo practico ayed\tpayed-grupo7\sucursal.h
+	<string>
+
+1603996446 source:c:\users\pat\desktop\trabajo practico ayed\tpayed-grupo7\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<limits>
+	"Lista.h"
+	"Sucursal.h"
+	<string.h>
+
